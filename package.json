@@ -34,6 +34,9 @@
 		"vite": "^5.0.3"
 	},
 	"dependencies": {
-		"daisyui": "^4.12.14"
+		"clsx": "^2.1.1",
+		"daisyui": "^4.12.14",
+		"svelte-sonner": "^0.3.28",
+		"tailwind-merge": "^2.5.4"
 	}
 }
